@@ -31,7 +31,6 @@ window.mirrors = [
     "https://gh-proxy.com",
     "https://gh.b52m.cn",
     "https://gh.bugdey.us.kg",
-    "https://gh.wsmdn.dpdns.org",
     "https://github.lxxz.xyz",
     "http://gh.927223.xyz",
     "https://ghp.qi9420.xyz",
@@ -53,4 +52,5 @@ window.mirrors = [
 "https://down.mxw.xx.kg",
 "https://down.mxw.qzz.io",
 "https://github.mxw.qzz.io",
+"https://gh.acmsz.top",
 ];
